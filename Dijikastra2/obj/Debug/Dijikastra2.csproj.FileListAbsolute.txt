@@ -1,0 +1,6 @@
+c:\users\pawan\documents\visual studio 2012\Projects\Dijikastra2\Dijikastra2\bin\Debug\Dijikastra2.exe.config
+c:\users\pawan\documents\visual studio 2012\Projects\Dijikastra2\Dijikastra2\obj\Debug\Dijikastra2.csprojResolveAssemblyReference.cache
+c:\users\pawan\documents\visual studio 2012\Projects\Dijikastra2\Dijikastra2\bin\Debug\Dijikastra2.exe
+c:\users\pawan\documents\visual studio 2012\Projects\Dijikastra2\Dijikastra2\bin\Debug\Dijikastra2.pdb
+c:\users\pawan\documents\visual studio 2012\Projects\Dijikastra2\Dijikastra2\obj\Debug\Dijikastra2.exe
+c:\users\pawan\documents\visual studio 2012\Projects\Dijikastra2\Dijikastra2\obj\Debug\Dijikastra2.pdb
